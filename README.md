@@ -2,7 +2,7 @@
 
 ##Actividad Modulo Programador
 
-###Ceremonias
+##Ceremonias
 
 Ceremonias que se realizan a lo largo del proyecto:
 
@@ -22,7 +22,8 @@ finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no h
 en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que 
 debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
 
-###Roles
+#Roles
+
 Los tres roles principales son:
 
 PRODUCT OWNER (Dueño del Producto): Tiene la responsabilidad de decidir qué trabajo necesita 
@@ -55,3 +56,23 @@ construido con un nivel de calidad llamado definición de terminado.
 
 Estos tres roles de Scrum se requieren para crear el producto del proyecto, son los responsables 
 del éxito de cada sprint y del proyecto en su totalidad.
+
+#Artefactos
+
+Son las herramientas o elementos que se utilizan para el registro de la información necesaria y
+ garantizar la transparencia del proceso.
+
+Pueden clasificarse en:
+
+● Product Backlog (pila del producto)
+
+Requisitos Globales del prodcuto a desarrollar. Lista de Tareas. Lo mantiene el Product owner
+
+● Sprint Backlog (Pila del sprint)
+
+La parte del Product backlog a realizar en un sprint. Lista de item que se eligen para realizar
+ en el sprint y no puede ser alterado hasta que el sprint se termine.
+
+● Increment (incremento)
+
+Resultado que se obtiene de cada Sprint.
