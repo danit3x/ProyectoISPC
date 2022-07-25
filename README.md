@@ -1,8 +1,10 @@
-# ProyectoISPC
+# ProyectoISPC 
 
-##Actividad Modulo Programador
+![Esta es una imagen](https://scontent.fcrd1-1.fna.fbcdn.net/v/t39.30808-6/246688970_101966488948971_1254348792837607690_n.png?_nc_cat=107&ccb=1-7&_nc_sid=973b4a&_nc_ohc=aD8Kz2XFWZkAX-QAUfA&_nc_ht=scontent.fcrd1-1.fna&oh=00_AT9nH9DLxmT2u0vlPhyhNDkBAsRrfi3o5NErkywBm-XBCQ&oe=62E39AFF)
 
->**Ceremonias**
+## Actividad Modulo Programador
+
+### **Ceremonias**
 
 Ceremonias que se realizan a lo largo del proyecto:
 
@@ -22,7 +24,7 @@ finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no h
 en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que 
 debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
 
->**Roles**
+### **Roles**
 
 Los tres roles principales son:
 
@@ -57,7 +59,7 @@ construido con un nivel de calidad llamado definición de terminado.
 Estos tres roles de Scrum se requieren para crear el producto del proyecto, son los responsables 
 del éxito de cada sprint y del proyecto en su totalidad.
 
->**Artefactos**
+### **Artefactos**
 
 Son las herramientas o elementos que se utilizan para el registro de la información necesaria y
  garantizar la transparencia del proceso.
