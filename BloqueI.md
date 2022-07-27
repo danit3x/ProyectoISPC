@@ -22,3 +22,24 @@ Ingres Corporación, MS SQL Server, Sybase, PACE Wang, y Britton Lee-. Por su pa
 Posteriormente en la época de los ochenta también se desarrollará el SQL (Structured Query Language) o lo que es lo mismo un lenguaje de consultas o lenguaje declarativo de acceso a bases de datos relacionales que permite efectuar consultas con el fin de recuperar información de interés de una base de datos y hacer cambios sobre la base de datos de forma sencilla; además de analiza grandes cantidades de información y permitir especificar diversos tipos de operaciones frente a la misma información, a diferencia de las bases de datos de los años ochenta que se diseñaron para aplicaciones de procesamiento de transacciones.
 Pero cabe destacar que ORACLE es considerado como uno de los sistemas de bases de datos más
 completos que existen en el mundo, y aunque su dominio en el mercado de servidores empresariales ha sido casi total hasta hace relativamente poco, actualmente sufre la competencia del SQL Server de la compañía Microsoft y de la oferta de otros Sistemas Administradores de Bases de Datos Relacionales con licencia libre como es el caso de PostgreSQL, MySQL o Firebird que aparecerían posteriormente en la década de 1990.
+
+## Metodologías Agiles y Gestión de Proyectos
+
+El manifiesto agile es un conjunto de principios que se han establecido para guiar el desarrollo de software. Los principios se centran en la satisfacción del cliente, la colaboración con el equipo, el cambio rápido y la simplicidad.
+La gestión de proyectos se refiere a la organización y coordinación de todos los aspectos de un proyecto. Se trata de una disciplina que se preocupa por la planificación, el seguimiento y el control de un proyecto desde su inicio hasta su final.
+Scrum es un marco de trabajo que se utiliza en la gestión de proyectos. Se centra en la entrega de valor al cliente a través de un enfoque iterativo e incremental. El objetivo de Scrum es ayudar a los equipos a entregar productos de alta calidad de forma ágil y eficiente.
+“La gestión de proyectos ágil no se formula sobre la necesidad de anticipación, sino sobre la adaptación continua.”
+Puntos principales: 
+
+## Metodología Scrum
+Es un marco de trabajo a través del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el máximo valor. Es una enfoque ágil para la gestión de un proyecto. Más que una metodología o proceso, es un Marco de Trabajo.
+● Utiliza procesos interactivos/incrementales.
+● Orientado a resultados y compromisos.
+● No está restringido a proyectos de software solamente.
+● Su visión es opuesta a la propuesta por la metodología en cascada.
+
+**GIT**
+Git es un software de control de versiones. Un control de versiones es un sistema que registra los cambios realizados en un archivo o conjunto de archivos a lo largo del tiempo, de modo que puedas recuperar versiones específicas más adelante.
+
+**GITHUB**
+Es una plataforma de social coding GitHub dónde puedes publicar repositorios de código remotos que pueden trabajarse con el sistema de control de versiones Git dado que está integrado. Este sistema te ofrece la posibilidad de colaborar en otros proyectos y publicar lo tuyos propios. La plataforma es de código abierto por defecto, por lo que cualquier persona puede utilizar tu código y tú también puedes ver el código de otros proyectos.
