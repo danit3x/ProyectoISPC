@@ -43,3 +43,40 @@ Git es un software de control de versiones. Un control de versiones es un sistem
 
 **GITHUB**
 Es una plataforma de social coding GitHub dónde puedes publicar repositorios de código remotos que pueden trabajarse con el sistema de control de versiones Git dado que está integrado. Este sistema te ofrece la posibilidad de colaborar en otros proyectos y publicar lo tuyos propios. La plataforma es de código abierto por defecto, por lo que cualquier persona puede utilizar tu código y tú también puedes ver el código de otros proyectos.
+
+## Etica y Deontologia informatica
+
+La **ética** es una disciplina filosófica que se define como "principios directivos que orientan a las personas en cuanto a la concepción de la vida, el hombre, los juicios, los hechos, y la moral”. La ética en la informática es una nueva disciplina que pretende abrirse campo dentro de las éticas aplicadas por lo cual encontramos varias definiciones:
+  -Se define "como la disciplina que analiza los problemas éticos que son creados por la
+  tecnología de los ordenadores o también los que son transformados o agravados por la
+  misma". Es decir, por las personas que utilizan los avances de las tecnologías de la
+  información.
+  -"Es el análisis de la naturaleza y el impacto social de la tecnología informática y la
+  correspondiente formulación y justificación de políticas para un uso ético de dicha
+  tecnología", esta definición esta relacionada con los problemas conceptuales y los
+  vacíos en las regulaciones que ha ocasionado la tecnología de la información.
+  -También se define a la EI "como la disciplina que identifica y analiza los impactos de
+  las tecnologías de la información en los valores humanos y sociales" . Estos valores
+  afectados son: la salud, la riqueza, el trabajo, la libertad, la democracia, el conocimiento,
+  la privacidad, la seguridad o la autorrealización personal
+  
+## Deontologia informatica
+Según el diccionario de la real academia española, la deontología es la parte de la ética que trata sobre los deberes, especialmente
+relacionados con el ejercicio de una determinada profesión.
+La Deontología informática hace referencia a la ciencia o tratado de los deberes y normas éticas, que conciernen a los profesionales que a diario están en contacto con la tecnología y los medios masivos de comunicación como internet. Por tanto trata, de la moral o ética profesional en el manejo del activo más importante que
+tienen las empresas, un bien cada vez más apreciado, que es la información.
+
+**Codigos eticos**
+"Los códigos de ética, tal como se conocen en el mundo de las empresas, son sistemas de reglas establecidos con el propósito general de guiar el comportamiento de los integrantes de la organización y de aquellos con los cuales ésta actúa habitualmente: clientes, proveedores y contratistas. No obstante la profesión de informática, es una actividad reconocida socialmente y así el futuro profesional informático, debe estar preparado para que un juez o una empresa le solicite un dictamen o peritaje informático y es evidente que este tipo de informes, en la práctica, deben estar firmados por alguien con titulación superior, actuando con Probidad profesional, y obrando según ciencia y conciencia."
+
+Los diez mandamientos de la ética informática son:
+  - No usarás una computadora para dañar a otros.
+  - No interferirás con el trabajo ajeno.
+  - No indagarás en los archivos ajenos.
+  - No utilizarás una computadora para robar.
+  - No utilizarás la informática para realizar fraudes.
+  - No copiarás o utilizarás software que no hayas comprado.
+  - No utilizarás los recursos informáticos ajenos sin la debida autorización.
+  - No te apropiarás de los derechos intelectuales de otros.
+  - Deberás evaluar las consecuencias sociales de cualquier código que desarrolles.
+  - Siempre utilizarás las computadoras de manera de respetar los derechos de los demás.
